@@ -1,0 +1,32 @@
+
+body {
+    text-align: center;
+    font-family: 'Monotype Corsiva';
+    background-color: hsl(327, 51%, 83%);
+}
+
+.square {
+    text-align: center;
+    width: 50px;
+    background: #c7eeee;
+    display: inline-block;
+    padding: 30px;
+    font-size: 50px;
+    margin: 5px;
+    cursor: pointer;
+    color: rgb(138, 25, 219);
+}
+
+.gamer, .winner {
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+button {
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    background: rgb(232, 228, 235);
+    cursor: pointer;
+}
